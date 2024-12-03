@@ -1,9 +1,6 @@
 local UILibrary = {}
---// Modules
-
 local function getObjGen()
     local objGen = {}
-
     local function getObjects()
         local function initObj()
             local Gui = {
